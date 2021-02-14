@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),  url(../1.png);
+	height: 200vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 25px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 485px;
+	height: auto;
+}
+
+.logo{
+	position: absolute;
+	top: 85%;
+	left: 18%;
+	transform: translate(-50%, -50%);
+}
+
+.logo1 img{
+	float: left;
+	width: 485px;
+	height: auto;
+}
+
+.logo1{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.logo2 img{
+	float: left;
+	width: 485px;
+	height: auto;
+}
+
+.logo2{
+	position: absolute;
+	top: 85%;
+	left: 82%;
+	transform: translate(-50%, -50%);
+}
+
+.logo3 img{
+	float: left;
+	width: 485px;
+	height: auto;
+}
+
+.logo3{
+	position: absolute;
+	top: 127%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.Ibex img{
+	float: left;
+	width: 128px;
+	height: auto;
+}
+
+.Ibex{
+	position: absolute;
+	top: 17%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.title{
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.title h1{
+	color: #fff;
+	font-size: 25px;
+
+}
+
+.subtitle{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.subtitle h1{
+	color: #fff;
+	font-size: 30px;
+
+}
+
+.subtitle1{
+	position: absolute;
+	top: 63%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.subtitle1 h1{
+	color: #fff;
+	font-size: 30px;
+
+}
+
+.subtitle2{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.subtitle2 h1{
+	color: #fff;
+	font-size: 30px;
+
+}
+
+.wow{
+	position: absolute;
+	top: 160%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.wow h1{
+	color: #fff;
+	font-size: 15px;
+
+}
+
+.button{
+	position: absolute;
+	top: 148%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn{ 
+	padding: 10px 733.5px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+
+}
+
+.btn:hover{
+	background-color: #808080;
+	color: #D3D3D3;
+}
+
+.button1{
+	position: absolute;
+	top: 300%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn1{ 
+	padding: 10px 733.5px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+
+}
+
+.btn1:hover{
+	background-color: #808080;
+	color: #D3D3D3;
+}
